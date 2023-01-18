@@ -1,2 +1,6 @@
 
+<<<<<<< HEAD
 first comment Alexander
+=======
+Commit first message "Swaathy"
+>>>>>>> 1d5371ca5d74942065709520aaeb9cb0358d5ce7
